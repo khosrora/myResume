@@ -34,6 +34,26 @@ const LeftBar = () => {
           <p>linkedin.ts</p>
         </div>
       </a>
+      <a href="https://ganje.ir" target="_blank">
+        <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] w-60">
+          <img
+            src={JSIcon}
+            alt="JS Icon"
+            className="w-7 mr-1  ml-5 text-yellow_vs"
+          />
+          <p>ganje.js</p>
+        </div>
+      </a>
+      <a href="https://github.com/khosrora/videoRayan-reactjs" target="_blank">
+        <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] w-60">
+          <img
+            src={JSIcon}
+            alt="JS Icon"
+            className="w-7 mr-1  ml-5 text-yellow_vs"
+          />
+          <p>video-rayan.js</p>
+        </div>
+      </a>
       <a href="https://github.com/khosrora/simple-Learn" target="_blank">
         <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] w-60">
           <img
@@ -41,7 +61,7 @@ const LeftBar = () => {
             alt="JS Icon"
             className="w-7 mr-1  ml-5 text-yellow_vs"
           />
-          <p>simpleProject.js</p>
+          <p>simple-Learn.js</p>
         </div>
       </a>
       <a href="https://github.com/khosrora/botostore" target="_blank">
